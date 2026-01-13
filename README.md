@@ -10,5 +10,3 @@
 - 📫 How to reach me: via GitHub
 
 *⚡ Curiosity first. Everything else follows.⚡*
-
-[![roadmap.sh](https://roadmap.sh/card/wide/696677b0e3a4245b3185aed9?variant=dark&roadmaps=devops)](https://roadmap.sh/u/ryangentrylab)
